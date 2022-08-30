@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://anderjohnny.github.io/JoarithBlog/</id>
+    <id>https://anderjohnny.github.io/JoarithBlog/</id>
     <title>Joarith Blog</title>
-    <updated>2022-08-30T08:23:16.244Z</updated>
+    <updated>2022-08-30T08:26:23.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://anderjohnny.github.io/JoarithBlog/"/>
-    <link rel="self" href="https://https://anderjohnny.github.io/JoarithBlog/atom.xml"/>
+    <link rel="alternate" href="https://anderjohnny.github.io/JoarithBlog/"/>
+    <link rel="self" href="https://anderjohnny.github.io/JoarithBlog/atom.xml"/>
     <subtitle>早</subtitle>
-    <logo>https://https://anderjohnny.github.io/JoarithBlog/images/avatar.png</logo>
-    <icon>https://https://anderjohnny.github.io/JoarithBlog/favicon.ico</icon>
+    <logo>https://anderjohnny.github.io/JoarithBlog/images/avatar.png</logo>
+    <icon>https://anderjohnny.github.io/JoarithBlog/favicon.ico</icon>
     <rights>All rights reserved 2022, Joarith Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://anderjohnny.github.io/JoarithBlog/post/hello-gridea/</id>
-        <link href="https://https://anderjohnny.github.io/JoarithBlog/post/hello-gridea/">
+        <id>https://anderjohnny.github.io/JoarithBlog/post/hello-gridea/</id>
+        <link href="https://anderjohnny.github.io/JoarithBlog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
